@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Martin
 
-<!--
-**martindotexe/martindotexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chief Picture Editor at NTB (Norwegian Telegram Agency) with a BA in Photojournalism, who loves to code!
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- Learning interpreter development through Thorsten Ball's book
+- Setting up an ADS-B receiver with Raspberry Pi 4 B
+- Working on Advent of Code challenges in Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+- Go
+- Python
+
+## 🌟 Featured Repositories
+- [AoC](https://github.com/martindotexe/AoC) - My solutions to Advent of Code challenges implemented in Go
+- [utils](https://github.com/martindotexe/utils) - A personal Go utility package
+
+## 🎯 Current Focus
+- Learning Go
+- Algorithm problem-solving
+
+## 📸 Professional Background
+- Chief Picture Editor at NTB (Norwegian Telegram Agency)
+- BA in Photojournalism

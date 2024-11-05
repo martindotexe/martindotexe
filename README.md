@@ -3,7 +3,7 @@
 Chief Picture Editor at NTB (Norwegian Telegram Agency) with a BA in Photojournalism, who loves to code!
 
 ## 🔭 Current Projects
-- Learning interpreter development through Thorsten Ball's book
+- Reading Thorsten Ball's book [Writing An Interpreter In Go](https://interpreterbook.com/)
 - Setting up an ADS-B receiver with Raspberry Pi 4 B
 - Working on Advent of Code challenges in Go
 
